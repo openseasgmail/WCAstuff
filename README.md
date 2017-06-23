@@ -9,16 +9,17 @@
 
 |Name |Best|
 | --------:| ------ |
-|2013SOLI02	| [Alessandro Solito] (https://www.worldcubeassociation.org/persons/2013SOLI02)	|33.81|
-|2017PANG04	| [Bo Pang] (https://www.worldcubeassociation.org/persons/2017PANG04)	|37.83|
-|2013BONA01	| [Martial Bonarek] (https://www.worldcubeassociation.org/persons/2013BONA01)	|46.53|
-|2013ZHUC01	| [Chen Zhu  ] (https://www.worldcubeassociation.org/persons/2013ZHUC01)	|49.88|
-|2012FROS01	| [Oliver Frost ] (https://www.worldcubeassociation.org/persons/2012FROS01)	|50.08|
-|2009BART02	| [ÃdÃ¡m Barta ] (https://www.worldcubeassociation.org/persons/2009BART02)	|57.06|
-|2014XUSU01	| [Su Xu  ] (https://www.worldcubeassociation.org/persons/2014XUSU01)	|57.63|
-|2013LINK01	| [Kaijun Lin  ] (https://www.worldcubeassociation.org/persons/2013LINK01)	|58.74|
-|2011NUGR02	| [Aan Candra Nugroho ] (https://www.worldcubeassociation.org/persons/2011NUGR02)	|1:00.90|
-|2015BUAT01	| [Witali BuÅ‚atow ] (https://www.worldcubeassociation.org/persons/2015BUAT01)	|1:02.76|
+| [Alessandro Solito ] (https://www.worldcubeassociation.org/persons/2013SOLI02)	|33.81|
+| [Bo Pang  ] (https://www.worldcubeassociation.org/persons/2017PANG04)	|37.83|
+| [Martial Bonarek ] (https://www.worldcubeassociation.org/persons/2013BONA01)	|46.53|
+| [Chen Zhu  ] (https://www.worldcubeassociation.org/persons/2013ZHUC01)	|49.88|
+| [Oliver Frost ] (https://www.worldcubeassociation.org/persons/2012FROS01)	|50.08|
+| [ÃdÃ¡m Barta ] (https://www.worldcubeassociation.org/persons/2009BART02)	|57.06|
+| [Su Xu  ] (https://www.worldcubeassociation.org/persons/2014XUSU01)	|57.63|
+| [Kaijun Lin  ] (https://www.worldcubeassociation.org/persons/2013LINK01)	|58.74|
+| [Aan Candra Nugroho ] (https://www.worldcubeassociation.org/persons/2011NUGR02)	|1:00.90|
+| [Witali BuÅ‚atow ] (https://www.worldcubeassociation.org/persons/2015BUAT01)	|1:02.76|
+
 
 
 
