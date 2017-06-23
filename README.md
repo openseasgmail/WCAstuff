@@ -1,4 +1,5 @@
-# Top solves in the first BLD attempt (Among competitors who made success in the first attempt) 
+# Top solves in the first BLD attempt 
+# (Among competitors who made success in their first official attempt) 
 
 - [3x3x3 Blindfolded](#3x3x3-blindfolded)
 - [4x4x4 Blindfolded](#4x4x4-blindfolded)
