@@ -1,13 +1,8 @@
 # Top solves in the first BLD attempt + Top MO3 3BLD in his/her first offical comp
 # (Among competitors who made success in their first official attempt) 
 
-- [3x3x3 Blindfolded Single](#3x3x3-blindfolded Single)
-- [3x3x3 Blindfolded Mo3](#3x3x3-blindfolded Mo3)
-- [4x4x4 Blindfolded Single](#4x4x4-blindfolded Single)
-- [5x5x5 Blindfolded Single](#5x5x5-blindfolded Single)
-- [3x3x3 Multi-Blind Single](#3x3x3-multi-blind Single)
 
-### 3x3x3 Blindfolded Single
+### 3x3x3 Blindfolded Single(#3x3x3-blindfolded Single)
 
 |Name |Best|
 | --------| ------ |
@@ -22,7 +17,7 @@
 | [Aan Candra Nugroho ](https://www.worldcubeassociation.org/persons/2011NUGR02)	|1:00.90|
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01)	|1:02.76|
 
-### 3x3x3 Blindfolded Mo3
+### 3x3x3 Blindfolded Mo3(#3x3x3-blindfolded Mo3)
 
 |Name |Best (Mo3)|
 | --------| ------ |
