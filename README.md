@@ -1,12 +1,13 @@
-# Top solves in the first BLD attempt 
+# Top solves in the first BLD attempt + Top MO3 3BLD in his/her first offical comp
 # (Among competitors who made success in their first official attempt) 
 
-- [3x3x3 Blindfolded](#3x3x3-blindfolded)
-- [4x4x4 Blindfolded](#4x4x4-blindfolded)
-- [5x5x5 Blindfolded](#5x5x5-blindfolded)
-- [3x3x3 Multi-Blind](#3x3x3-multi-blind)
+- [3x3x3 Blindfolded Single](#3x3x3-blindfolded Single)
+- [3x3x3 Blindfolded Mo3](#3x3x3-blindfolded Mo3)
+- [4x4x4 Blindfolded Single](#4x4x4-blindfolded Single)
+- [5x5x5 Blindfolded Single](#5x5x5-blindfolded Single)
+- [3x3x3 Multi-Blind Single](#3x3x3-multi-blind Single)
 
-### 3x3x3 Blindfolded
+### 3x3x3 Blindfolded Single
 
 |Name |Best|
 | --------| ------ |
@@ -21,11 +22,24 @@
 | [Aan Candra Nugroho ](https://www.worldcubeassociation.org/persons/2011NUGR02)	|1:00.90|
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01)	|1:02.76|
 
+### 3x3x3 Blindfolded Mo3
+
+|Name |Best (Mo3)|
+| --------| ------ |
+| [Su Xu](https://www.worldcubeassociation.org/persons/2014XUSU01)	| 58.74|
+| [Benjamin Meco](https://www.worldcubeassociation.org/persons/2012MECO01)	| 1:71.34|
+| [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01)	| 1:72.95|
+| [Jun Xu](https://www.worldcubeassociation.org/persons/2011XUJU01)	| 1:81.28|
+| [Wu Chun Chung](https://www.worldcubeassociation.org/persons/2010CHUN04)	| 1:82.60|
+| [Dwayne Lee](https://www.worldcubeassociation.org/persons/2013LEED01)	| 1:83.01|
+| [Ko Ishida](https://www.worldcubeassociation.org/persons/2014ISHI03)	| 1:84.39|
+| [Ben Bergen](https://www.worldcubeassociation.org/persons/2015BERG10)	| 1:86.40|
+| [Chuang Zhou](https://www.worldcubeassociation.org/persons/2014ZHOU17)	| 1:90.51|
+| [Chun-Lin Ho](https://www.worldcubeassociation.org/persons/2016HOCH02)	| 1:92.31|
 
 
 
-
-### 4x4x4 Blindfolded
+### 4x4x4 Blindfolded Single
 
 |Name |Best|
 | --------| ------ |
@@ -41,7 +55,7 @@
 | [Israel Fraga da Silva ](https://www.worldcubeassociation.org/persons/2012SILV22)	|5:37.56|
 
 
-### 5x5x5 Blindfolded
+### 5x5x5 Blindfolded Single
 
 |Name |Best|
 | --------| ------ |
@@ -57,7 +71,7 @@
 | [Hari Anirudh ](https://www.worldcubeassociation.org/persons/2013ANIR01)	|14:58.00|
 
 
-### 3x3x3 Multi-Blind
+### 3x3x3 Multi-Blind Single
 
 |Name |Best|
 | --------| ------ |
