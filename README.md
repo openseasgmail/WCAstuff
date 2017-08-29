@@ -1,5 +1,6 @@
-# Top solves in the first BLD attempt + Top MO3 3BLD in his/her first offical comp
+# Top solves in the first BLD event in his/her first offical comp
 # (Among competitors who made success in their first official attempt) 
+# (Best results out of 3 attempts in their first official comp, not the first ever attempt)
 
 ###########################################################
 ### Success rate by year and event
