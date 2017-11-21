@@ -81,7 +81,7 @@
 
 |Event |Rank | Name  | Time  |
 | --------| ------ | ------ | ------ |
-|333bf	|1	|Alessandro Solito(https://www.worldcubeassociation.org/persons/2013SOLI02) |	33.81|
+|333bf	|1	|Alessandro Solito<https://www.worldcubeassociation.org/persons/2013SOLI02> |	33.81|
 |333bf	|2	|Bo Pang(https://www.worldcubeassociation.org/persons/2017PANG04) |	37.83|
 |333bf	|3	|Martial Bonarek(https://www.worldcubeassociation.org/persons/2013BONA01) |	46.53|
 |333bf	|4	|Chen Zhu  (https://www.worldcubeassociation.org/persons/2013ZHUC01) |	49.88|
