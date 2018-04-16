@@ -33,10 +33,10 @@
 (https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/clockavg.md)
 
 - [Megaminx by average]
-(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/minxavg.md)
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/megaminxavg.md)
 
 - [Pyraminx by average]
-(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/pyramavg.md)
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/pyraminxavg.md)
 
 - [Sq1 by average]
 (https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/sq1avg.md)
