@@ -20,6 +20,9 @@
 - [777 by average]
 (https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/777avg.md)
 
+- [3BLD by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333bf.md)
+
 - [333oh by average]
 (https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333ohavg.md)
 
@@ -43,9 +46,6 @@
 
 - [Skewb by average]
 (https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/skewbavg.md)
-
-- [3BLD by single]
-(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333bf.md)
 
 - [4BLD by single]
 (https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/444bf.md)
