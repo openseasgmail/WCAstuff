@@ -2,11 +2,56 @@
 # Cheat sheet
 # Update: 2018.04.15
 
+- [222 by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/222avg.md)
+
 - [333 by average]
 (https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333avg.md)
 
+- [444 by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/444vg.md)
 
-- [Most events with fewest competitors - all time Top 10 in US](https://github.com/openseasgmail/WCAstuff/blob/master/MostEventsPerPeople/Results/alltime_us.md)
+- [555 by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/555avg.md)
 
+- [666 by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/666vg.md)
 
-- [Most events with fewest competitors - Top 10 in 2018](https://github.com/openseasgmail/WCAstuff/blob/master/MostEventsPerPeople/Results/2018_top10.md)
+- [777 by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/777avg.md)
+
+- [333oh by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333ohavg.md)
+
+- [333feet by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333ftavg.md)
+
+- [333fmc by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333fmavg.md)
+
+- [Clock by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/clockavg.md)
+
+- [Megaminx by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/minxavg.md)
+
+- [Pyraminx by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/pyramavg.md)
+
+- [Sq1 by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/sq1avg.md)
+
+- [Skewb by average]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/skewbavg.md)
+
+- [3BLD by single]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333bf.md)
+
+- [4BLD by single]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/444bf.md)
+
+- [5BLD by single]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/555bf.md)
+
+- [MBLD by single]
+(https://github.com/openseasgmail/WCAstuff/blob/master/AsianChampionship2018Cheatsheet/Results/333mbf.md)
