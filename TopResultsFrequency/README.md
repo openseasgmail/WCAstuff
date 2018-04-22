@@ -1,9 +1,10 @@
-# **TopResultsFrequency**
-Last Computed 4/3/2018 
+# List of competitors who frequently recorded within 25 % of WR single  per each event
+Last Computed 4/22/2018 
 
 # Description
-This statistic gives how often each competitor recorded top x% single in past one year per each event.
-Top x% is determined by 25% bigger time of the current WR single. For example, since 333 WR single is 4.59 as of 4/3/2018, top x% for 333 is singles faster than 5.737s. 
+This statistic gives how often each competitor recorded wihtin 25% of single WR in past one year per each event. For example, since 333 WR single is 4.59 as of 4/3/2018, within 25% of 333 WR single is singles faster than 5.737s. 
+
+Value 25% is determined after comparing 1) top 100 ranking, 2) top 1% ranking and 3) singles within 25% of current WR single. Both top 100 and top 1% are not applicable for those events such as 4/5BLD, MBLD etc due to size of the whole population. 
 
 # Files
  - [333](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/333.md) gives 333 frequency
