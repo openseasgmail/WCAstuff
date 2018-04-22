@@ -9,5 +9,5 @@ Value 25% is determined after comparing 1) top 100 ranking, 2) top 1% ranking an
 # Files
  - [NNN](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/nbyn.md) frequency based
  - [BLD](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/all_bld.md) frequency based
- - [333 based](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/333_based.md) frequency based
+ - [333 based](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/333based.md) frequency based
  - [non_cubes](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/non_cubes.md) frequency based
