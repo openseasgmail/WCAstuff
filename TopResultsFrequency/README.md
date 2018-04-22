@@ -7,7 +7,7 @@ This statistic gives how often each competitor recorded wihtin 25% of single WR 
 Value 25% is determined after comparing 1) top 100 ranking, 2) top 1% ranking and 3) singles within 25% of current WR single. Both top 100 and top 1% are not applicable for those events such as 4/5BLD, MBLD etc due to size of the whole population. 
 
 # Files
- - [333](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/333.md) gives 333 frequency
- - [333oh](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/333oh.md) gives 333oh frequency
- - [333bf](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/333bf.md) gives 333bf frequency
-
+ - [NNN](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/nbyn.md) frequency based
+ - [BLD](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/all_bld.md) frequency based
+ - [333 based](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/333_based.md) frequency based
+ - [non_cubes](https://github.com/openseasgmail/WCAstuff/blob/master/TopResultsFrequency/Results/non_cubes.md) frequency based
