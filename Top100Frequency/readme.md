@@ -1,4 +1,4 @@
-# List of competitors who made top 100 results  per each event
+# List of competitors who made top 100 "single" results  per each event
 Last Computed 5/10/2018 
 
 # Files
