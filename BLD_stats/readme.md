@@ -7,5 +7,5 @@
 
 - [Most BLD combined DNFs (at least 100 DNFs)](https://github.com/openseasgmail/WCAstuff/blob/master/BLD_stats/bld_dnfs_combined/results_by_dnf.md)
 
-- [Highest DNF ratio for all BLD combined (at least 100 DNFs)](https://github.com/openseasgmail/WCAstuff/blob/master/BLD_stats/bld_dnfs_combined/results_by_raio.md)
+- [Highest DNF ratio for all BLD combined (at least 100 DNFs)](https://github.com/openseasgmail/WCAstuff/blob/master/BLD_stats/bld_dnfs_combined/results_by_ratio.md)
 
